@@ -8,4 +8,25 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="elemento_placar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">0.5</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="elemento_placar_titulo" parent="elemento_placar">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="elemento_placar_resultado" parent="elemento_placar">
+        <item name="android:textSize">64sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="elemento_placar_botao" parent="elemento_placar">
+        <item name="android:textSize">17sp</item>
+    </style>
+
 </resources>
