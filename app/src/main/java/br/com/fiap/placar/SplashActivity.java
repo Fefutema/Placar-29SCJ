@@ -31,7 +31,7 @@ public class SplashActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent proximaTela = new Intent(SplashActivity.this, MainActivity.class);
+                Intent proximaTela = new Intent(SplashActivity.this, LoginActivity.class);
 
                 startActivity(proximaTela);
                 SplashActivity.this.finish();
