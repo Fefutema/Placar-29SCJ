@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Bomba Patch</string>
-    <string name="footer_autor">Desenvolvido por Felipe Futema</string>
+    <string name="footer_autor">Developed by Felipe Futema</string>
+    <string name="time_da_casa">Home team</string>
 </resources>
