@@ -3,4 +3,6 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="tamanho_titulos">30sp</dimen>
+    <dimen name="largura_icone_splash">100dp</dimen>
+    <dimen name="altura_icone_splash">100dp</dimen>
 </resources>
